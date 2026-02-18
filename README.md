@@ -1,23 +1,34 @@
-
 # JobTrack Prototype
 
-This is a proof of concept for the CIS 3296 Software Design project.
+This repository contains a proof of concept for the CIS 3296 Software Design project.
 
-## Requirements
+The prototype demonstrates a minimal Java implementation of the JobTrack system domain model.
 
-- Java 17
-- javac compiler
+---
+
+## System Requirements
+
+- Operating System: Windows 11 or macOS
+- Java Version: JDK 17
+- Compiler: javac
+
+---
 
 ## How to Compile and Run
 
-1. Compile:
+1. Open a terminal in the project directory.
+2. Compile the program:
+
    javac Main.java
 
-2. Run:
+3. Run the program:
+
    java Main
+
+---
 
 ## Expected Output
 
-Job Title: Software Engineer Intern
-Company: Google
+Job Title: Software Engineer Intern  
+Company: Google  
 Status: Applied
